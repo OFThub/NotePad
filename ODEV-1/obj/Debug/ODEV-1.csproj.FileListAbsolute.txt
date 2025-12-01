@@ -1,0 +1,11 @@
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\ODEV-1.csproj.AssemblyReference.cache
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\ODEV-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\_1.ODEV.Form1.resources
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\ODEV_1.Properties.Resources.resources
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\ODEV-1.csproj.GenerateResource.cache
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\ODEV-1.csproj.CoreCompileInputs.cache
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\bin\Debug\ODEV-1.exe.config
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\bin\Debug\ODEV-1.exe
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\bin\Debug\ODEV-1.pdb
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\ODEV-1.exe
+C:\Users\ömer\source\repos\ODEV-1\ODEV-1\obj\Debug\ODEV-1.pdb
